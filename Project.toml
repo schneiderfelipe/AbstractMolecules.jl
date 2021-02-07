@@ -3,6 +3,10 @@ uuid = "96ce255b-3547-4937-84ca-25c643b4dfe8"
 authors = ["Felipe S. S. Schneider <schneider.felipe@posgrad.ufsc.br> and contributors"]
 version = "0.1.0"
 
+[deps]
+ChemicalElements = "93ccf7a8-3646-4941-ab62-976e64c081ff"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1"
 
