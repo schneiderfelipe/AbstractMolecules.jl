@@ -5,6 +5,7 @@ using LinearAlgebra
 using ChemicalElements
 export @ce_str  # reexported
 
+export AbstractMolecule
 export Molecule
 export element
 export coord
